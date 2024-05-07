@@ -6,6 +6,7 @@ let rownum = 0;
 
 let data = '{ "games" : [' +
 	'{ "title":"The Second Reality Project" , "img":"The Second Reality Project", "site":"https://www.smwcentral.net/?p=section&a=details&id=4983"}' +
+	',{ "title":"The Second Reality Project 2" , "img":"The Second Reality Project 2", "site":"https://www.smwcentral.net/?p=section&a=details&id=4974"}' +
 	',{ "title":"A Super Mario Thing" , "img":"A Super Mario Thing", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"An SMWC Production" , "img":"An SMWC Production", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"Nonsense" , "img":"Nonsense", "site":"https://www.smwcentral.net/?p=section&a=details&id=35707"}' +
