@@ -1,7 +1,6 @@
 let tilenum = 0;
-let total = 5;
 let rownum = 0;
-
+let colnum = 4;
 
 
 let data = '{ "games" : [' +
@@ -36,15 +35,15 @@ $(function() {
 		let current = games.games[i]
 		let baseimage = '<img src="img/' + current.title + '.png" class="img-fluid rounded img-thumbnail ' + current.type +'-type" alt="' + current.title + '"></img>'
 		let interior = '<a href="' + current.site + '"><div>' + baseimage + '</div></a>'
-		if (i % 3 == 0){
+		if (i % colnum == 0){
 			$("#content").append('<tr id="row-' + rownum + '">')
 		}
 		$("#row-" + rownum).append('<td>' + interior + '</td>')
-		if (i % 3 == 2){
+		if (i % colnum == colnum-1){
 			$("#row-" + rownum).append('</tr>')
 			rownum++
 		}
-		console.log(i%3)
+		console.log(i%colnum)
 	}
 	
 	$("#content").append('</row>')
