@@ -33,6 +33,11 @@ let data = '{ "games" : [' +
 	',{ "title":"Rob-ombs Quest" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9735"}' +
 	',{ "title":"VIP and Wall Mix 2" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9821"}' +
 	',{ "title":"VIP and Wall Mix 3" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10027"}' +
+	',{ "title":"Super Mario World Plus 2" , "type":"smw", "site":"http://smwdb.me/db/3/32142643d567983bb3db3beaadae79b0ab2820a9/"}' +
+	',{ "title":"Chaos Complexx" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9680"}' +
+	',{ "title":"Luigis Adventure" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=34399"}' +
+	',{ "title":"VIP and Wall Mix 4" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9799"}' +
+	',{ "title":"Kameks Revenge" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=12812"}' +
 	',{ "title":"Commander Keen" , "type":"steam", "site":"https://store.steampowered.com/app/9180/Commander_Keen/"}' +
 	',{ "title":"Super Marisa World" , "type":"indie", "site":"https://en.touhouwiki.net/wiki/Super_Marisa_World"}' +
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
