@@ -29,6 +29,10 @@ let data = '{ "games" : [' +
 	',{ "title":"VIP and Wall Mix" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9706"}' +
 	',{ "title":"Super Mario Infinity 2" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=20859"}' +
 	',{ "title":"The Reture" , "type":"smw", "site":"http://smwdb.me/db/f/f0e8e4b7137bbe969e9d04971af63765b3c357f2/"}' +
+	',{ "title":"The Ninji Saga" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9710"}' +
+	',{ "title":"Rob-ombs Quest" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9735"}' +
+	',{ "title":"VIP and Wall Mix 2" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9821"}' +
+	',{ "title":"VIP and Wall Mix 3" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10027"}' +
 	',{ "title":"Commander Keen" , "type":"steam", "site":"https://store.steampowered.com/app/9180/Commander_Keen/"}' +
 	',{ "title":"Super Marisa World" , "type":"indie", "site":"https://en.touhouwiki.net/wiki/Super_Marisa_World"}' +
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
