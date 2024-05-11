@@ -47,6 +47,10 @@ let data = '{ "games" : [' +
 	',{ "title":"Super Black Mario 3" , "type":"smw", "site":"https://web.archive.org/web/20110828071155/http://www7.atpages.jp/smw/view.cgi/1238155862"}' +
 	',{ "title":"PPP" , "type":"smw", "site":"https://web.archive.org/web/20110826040816/http://www7.atpages.jp/smw/view.cgi/1218383563"}' +
 	',{ "title":"The Mario" , "type":"smw", "site":"https://web.archive.org/web/20120418172355/http://1st.geocities.jp/puriny_ping/zip/MARIO.zip"}' +
+	',{ "title":"Marisa and Alice" , "type":"indie", "site":"https://en.touhouwiki.net/wiki/Marisa_and_Alice"}' +
+	',{ "title":"World of Illusion" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=4980"}' +
+	',{ "title":"Super Mario World Returns" , "type":"smw", "site":"https://web.archive.org/web/20130125035929/http://www.h7.dion.ne.jp/~tkmt/smwr/SMWR.htm"}' +
+	',{ "title":"An Untitled Story" , "type":"indie", "site":"https://www.maddymakesgames.com/"}' +
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
