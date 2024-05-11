@@ -38,7 +38,7 @@ let data = '{ "games" : [' +
 	',{ "title":"Luigis Adventure" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=34399"}' +
 	',{ "title":"VIP and Wall Mix 4" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=9799"}' +
 	',{ "title":"Kameks Revenge" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=12812"}' +
-	',{ "title":"Commander Keen" , "type":"steam", "site":"https://store.steampowered.com/app/9180/Commander_Keen/"}' +
+	',{ "title":"Commander Keen" , "type":"steam", "site":"https://www.gog.com/en/game/commander_keen_complete_pack"}' +
 	',{ "title":"The Second Reality Project Reloaded" , "type":"smw", "site":"https://www.smwcentral.net/?a=details&id=16696&p=section"}' +
 	',{ "title":"Misadventures of Plumma Man" , "type":"smw", "site":"http://smwdb.me/db/8/89acdbc536eccd3c5f2c1c80feeb9df816ba2844/"}' +
 	',{ "title":"Super Black Mario" , "type":"smw", "site":"https://web.archive.org/web/20110828065916/http://www7.atpages.jp/smw/view.cgi/1232432088"}' +
