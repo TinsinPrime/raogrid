@@ -54,7 +54,7 @@ let data = '{ "games" : [' +
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
-	',{ "title":"VVVVVV" , "type":"steam", "site":"https://store.steampowered.com/app/70300/VVVVVV/"}' +
+	',{ "title":"VVVVVV" , "type":"steam", "site":"https://thelettervsixtim.es/"}' +
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"Nonsense" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=35707"}' +
 	']}'
