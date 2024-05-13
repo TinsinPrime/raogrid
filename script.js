@@ -50,7 +50,13 @@ let data = '{ "games" : [' +
 	',{ "title":"Marisa and Alice" , "type":"indie", "site":"https://en.touhouwiki.net/wiki/Marisa_and_Alice"}' +
 	',{ "title":"World of Illusion" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=4980"}' +
 	',{ "title":"Super Mario World Returns" , "type":"smw", "site":"https://web.archive.org/web/20130125035929/http://www.h7.dion.ne.jp/~tkmt/smwr/SMWR.htm"}' +
-	',{ "title":"An Untitled Story" , "type":"indie", "site":"https://www.maddymakesgames.com/"}' +
+	',{ "title":"An Untitled Story" , "type":"indie", "site":"https://www.maddymakesgames.com/"}' + 
+	',{ "title":"Super Mario World Returns 2" , "type":"smw", "site":"https://web.archive.org/web/20130125003202/http://www.h7.dion.ne.jp/~tkmt/smwr2/SMWR2.htm"}' +
+	',{ "title":"What the Hell" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=16069&page=81&pid=455179#p455179"}' +
+	',{ "title":"Jump on Mushrooms" , "type":"indie", "site":"https://hempuli.com/mush/"}' + 
+	',{ "title":"SYNSO" , "type":"indie", "site":"https://www.moddb.com/games/squid-yes-not-so-octopus/downloads"}' + 
+	',{ "title":"The Game" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/467574"}' +
+	',{ "title":"Spelunky Classic" , "type":"indie", "site":"https://spelunkyworld.com/original.html"}' + //stopped here
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
@@ -58,7 +64,6 @@ let data = '{ "games" : [' +
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"Nonsense" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=35707"}' +
 	']}'
-
 
 
 
