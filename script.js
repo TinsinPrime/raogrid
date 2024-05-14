@@ -56,12 +56,18 @@ let data = '{ "games" : [' +
 	',{ "title":"Jump on Mushrooms" , "type":"indie", "site":"https://hempuli.com/mush/"}' + 
 	',{ "title":"SYNSO" , "type":"indie", "site":"https://www.moddb.com/games/squid-yes-not-so-octopus/downloads"}' + 
 	',{ "title":"The Game" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/467574"}' +
-	',{ "title":"Spelunky Classic" , "type":"indie", "site":"https://spelunkyworld.com/original.html"}' + //stopped here
+	',{ "title":"Spelunky Classic" , "type":"indie", "site":"https://spelunkyworld.com/original.html"}' + 
+	',{ "title":"GROW" , "type":"indie", "site":"https://www.eyezmaze.com/sp/2002/02/growPlanet.html"}' + 
+	',{ "title":"MUGEN" , "type":"indie", "site":"https://www.elecbyte.com/mugendocs-11b1/mugen.html"}' +
+	',{ "title":"Super Mario World Returns EX" , "type":"smw", "site":"https://web.archive.org/web/20081017113708/http://www.h7.dion.ne.jp/~tkmt/SMWREX/SMWREX.htm"}' + 
+	',{ "title":"Blob Adventure 2" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/632203"}' + //STOPPED HERE
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
 	',{ "title":"VVVVVV" , "type":"steam", "site":"https://thelettervsixtim.es/"}' +
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
+	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
+	',{ "title":"NieR Automata" , "type":"steam", "site":"https://www.platinumgames.com/games/nier-automata?age-verified=98bb03574a"}' +
 	',{ "title":"Nonsense" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=35707"}' +
 	']}'
 
