@@ -1,3 +1,11 @@
+.header.row {
+	margin: 0 .75rem;
+}
+
+.game-tile {
+	padding: .75rem;
+}
+
 .smw-type {
   border: 8px solid #f83838;
 }
