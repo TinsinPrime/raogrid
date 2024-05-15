@@ -60,7 +60,11 @@ let data = '{ "games" : [' +
 	',{ "title":"GROW" , "type":"indie", "site":"https://www.eyezmaze.com/sp/2002/02/growPlanet.html"}' + 
 	',{ "title":"MUGEN" , "type":"indie", "site":"https://www.elecbyte.com/mugendocs-11b1/mugen.html"}' +
 	',{ "title":"Super Mario World Returns EX" , "type":"smw", "site":"https://web.archive.org/web/20081017113708/http://www.h7.dion.ne.jp/~tkmt/SMWREX/SMWREX.htm"}' + 
-	',{ "title":"Blob Adventure 2" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/632203"}' + //STOPPED HERE
+	',{ "title":"Blob Adventure 2" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/632203"}' + 
+	',{ "title":"Super Metroid Legacy" , "type":"smw", "site":"http://metroidconstruction.com/hack.php?id=25"}' + 
+	',{ "title":"Super Mario Omega" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5252"}' + 
+	',{ "title":"Chocolate Level Design Contest 09" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=22769"}' + 
+	',{ "title":"Super Mario World YEAH" , "type":"smw", "site":"hhttps://www.smwcentral.net/?p=viewthread&t=46715&page=1&pid=742621#p742621"}' + //STOPPED HERE
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
