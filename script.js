@@ -1,6 +1,4 @@
 let tilenum = 0;
-let rownum = 0;
-let colnum = 4;
 
 
 
@@ -91,19 +89,11 @@ $(function() {
 	for (let i = 0; i < games.games.length; i++){
 		let current = games.games[i]
 		let baseimage = '<img src="img/' + current.title + '.png" class="img-fluid rounded img-thumbnail ' + current.type +'-type" alt="' + current.title + '"></img>'
-		let interior = '<a href="' + current.site + '"><div>' + baseimage + '</div></a>'
-		if (i % colnum == 0){
-			$("#content").append('<tr id="row-' + rownum + '">')
-		}
-		$("#row-" + rownum).append('<td>' + interior + '</td>')
-		if (i % colnum == colnum-1){
-			$("#row-" + rownum).append('</tr>')
-			rownum++
-		}
-		console.log(i%colnum)
+		let interior = '<a href="' + current.site + '">' + baseimage + '</a>'
+		
+		$('#content').append('<div class="col game-tile" id="game-' + (tilenum+1) + '">' + interior + '</div>')
+		tilenum++
 	}
-	
-	$("#content").append('</row>')
 	
 	$("p").addClass("text-center")
 });
