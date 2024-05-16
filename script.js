@@ -62,7 +62,11 @@ let data = '{ "games" : [' +
 	',{ "title":"Super Metroid Legacy" , "type":"smw", "site":"http://metroidconstruction.com/hack.php?id=25"}' + 
 	',{ "title":"Super Mario Omega" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5252"}' + 
 	',{ "title":"Chocolate Level Design Contest 09" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=22769"}' + 
-	',{ "title":"Super Mario World YEAH" , "type":"smw", "site":"hhttps://www.smwcentral.net/?p=viewthread&t=46715&page=1&pid=742621#p742621"}' + //STOPPED HERE
+	',{ "title":"Super Mario World YEAH" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=46715&page=1&pid=742621#p742621"}' + 
+	',{ "title":"Mushroom Kingdom Meltdown" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=30027"}' + 
+	',{ "title":"Runman" , "type":"steam", "site":"https://store.steampowered.com/app/2466160/RunMan_Race_Around_the_World/"}' + 
+	',{ "title":"Mushroom Kingdom Meltdown 2" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=31223"}' + 
+	',{ "title":"Nezumi Man" , "type":"indie", "site":"https://indieoverlook.com/freeware/nezumi-man/"}' + //STOPPED HERE
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
