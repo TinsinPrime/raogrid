@@ -66,7 +66,11 @@ let data = '{ "games" : [' +
 	',{ "title":"Mushroom Kingdom Meltdown" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=30027"}' + 
 	',{ "title":"Runman" , "type":"steam", "site":"https://store.steampowered.com/app/2466160/RunMan_Race_Around_the_World/"}' + 
 	',{ "title":"Mushroom Kingdom Meltdown 2" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=31223"}' + 
-	',{ "title":"Nezumi Man" , "type":"indie", "site":"https://indieoverlook.com/freeware/nezumi-man/"}' + //STOPPED HERE
+	',{ "title":"Nezumi Man" , "type":"indie", "site":"https://indieoverlook.com/freeware/nezumi-man/"}' + 
+	',{ "title":"Super Mario World 2 Plus" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=4569"}' + 
+	',{ "title":"Robot Dinosaurs That Shoot Beams When They Roar" , "type":"indie", "site":"https://www.kongregate.com/games/i_smell/robot-dinosaurs-that-shoot-beams-when-they-roar"}' + 
+	',{ "title":"Upgrade Complete" , "type":"indie", "site":"https://www.kongregate.com/games/armorgames/upgrade-complete"}' + 
+	',{ "title":"The Company of Myself" , "type":"indie", "site":"https://www.kongregate.com/games/2darray/the-company-of-myself"}' + //STOPPED HERE
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
