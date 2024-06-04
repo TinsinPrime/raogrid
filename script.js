@@ -70,7 +70,11 @@ let data = '{ "games" : [' +
 	',{ "title":"Super Mario World 2 Plus" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=4569"}' + 
 	',{ "title":"Robot Dinosaurs That Shoot Beams When They Roar" , "type":"indie", "site":"https://www.kongregate.com/games/i_smell/robot-dinosaurs-that-shoot-beams-when-they-roar"}' + 
 	',{ "title":"Upgrade Complete" , "type":"indie", "site":"https://www.kongregate.com/games/armorgames/upgrade-complete"}' + 
-	',{ "title":"The Company of Myself" , "type":"indie", "site":"https://www.kongregate.com/games/2darray/the-company-of-myself"}' + //STOPPED HERE
+	',{ "title":"The Company of Myself" , "type":"indie", "site":"https://www.kongregate.com/games/2darray/the-company-of-myself"}' + 
+	',{ "title":"Multitask" , "type":"indie", "site":"https://www.kongregate.com/games/IcyLime/multitask"}' + 
+	',{ "title":"Cat Planet" , "type":"indie", "site":"https://sylvie.website/catplanet/"}' + 
+	',{ "title":"Scarlet Devil Mario" , "type":"smw", "site":"https://web.archive.org/web/20160810044926/http://www.geocities.jp/pyua51113/mario/kouma.html"}' + 
+	',{ "title":"The Legend of Randorland 3" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10002"}' + //STOPPED HERE
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
