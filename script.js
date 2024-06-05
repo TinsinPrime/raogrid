@@ -74,15 +74,20 @@ let data = '{ "games" : [' +
 	',{ "title":"Multitask" , "type":"indie", "site":"https://www.kongregate.com/games/IcyLime/multitask"}' + 
 	',{ "title":"Cat Planet" , "type":"indie", "site":"https://sylvie.website/catplanet/"}' + 
 	',{ "title":"Scarlet Devil Mario" , "type":"smw", "site":"https://web.archive.org/web/20160810044926/http://www.geocities.jp/pyua51113/mario/kouma.html"}' + 
-	',{ "title":"The Legend of Randorland 3" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10002"}' + //STOPPED HERE
+	',{ "title":"The Legend of Randorland 3" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10002"}' + 
 	',{ "title":"EVW" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=10001"}' +
+	',{ "title":"Hacks 101" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=19884"}' + 
 	',{ "title":"A Super Mario Thing" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=17125"}' +
+	',{ "title":"Vanilla Level Design Contest X" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=89093"}' + 
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
 	',{ "title":"VVVVVV" , "type":"steam", "site":"https://thelettervsixtim.es/"}' +
+	',{ "title":"Mega Man X" , "type":"emu", "site":"https://www.igdb.com/games/mega-man-x"}' + //S
+	',{ "title":"Mega Man X2" , "type":"emu", "site":"https://www.igdb.com/games/mega-man-x2"}' + 
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
 	',{ "title":"NieR Automata" , "type":"steam", "site":"https://www.platinumgames.com/games/nier-automata?age-verified=98bb03574a"}' +
 	',{ "title":"Nonsense" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=35707"}' +
+	// ',{ "title":"TITLE" , "type":"???", "site":"URL"}' +
 	']}'
 
 
