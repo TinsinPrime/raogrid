@@ -81,8 +81,12 @@ let data = '{ "games" : [' +
 	',{ "title":"Vanilla Level Design Contest X" , "type":"smw", "site":"https://www.smwcentral.net/?p=viewthread&t=89093"}' + 
 	',{ "title":"Kirbys Dream Land 3" , "type":"emu", "site":"https://www.igdb.com/games/kirby-s-dream-land-3"}' +
 	',{ "title":"VVVVVV" , "type":"steam", "site":"https://thelettervsixtim.es/"}' +
-	',{ "title":"Mega Man X" , "type":"emu", "site":"https://www.igdb.com/games/mega-man-x"}' + //S
+	',{ "title":"Mega Man X" , "type":"emu", "site":"https://www.igdb.com/games/mega-man-x"}' + 
 	',{ "title":"Mega Man X2" , "type":"emu", "site":"https://www.igdb.com/games/mega-man-x2"}' + 
+	',{ "title":"Bunny Must Die" , "type":"steam", "site":"https://www.nintendo.com/us/store/products/bunny-must-die-chelsea-and-the-7-devils-switch/"}' +
+	',{ "title":"HACK" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5428"}' +
+	',{ "title":"Hyper V" , "type":"smw", "site":"https://talkhaus.raocow.com/viewtopic.php?f=11&t=17793"}' +
+	',{ "title":"KOLM" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556643"}' +
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
 	',{ "title":"NieR Automata" , "type":"steam", "site":"https://www.platinumgames.com/games/nier-automata?age-verified=98bb03574a"}' +
