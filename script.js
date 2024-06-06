@@ -87,6 +87,10 @@ let data = '{ "games" : [' +
 	',{ "title":"HACK" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5428"}' +
 	',{ "title":"Hyper V" , "type":"smw", "site":"https://talkhaus.raocow.com/viewtopic.php?f=11&t=17793"}' +
 	',{ "title":"KOLM" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556643"}' +
+	',{ "title":"Effective Attack" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556815"}' +
+	',{ "title":"Berzerk Ball" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556904"}' +
+	',{ "title":"Champions of Chaos" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556975"}' +
+	',{ "title":"Insidia" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557083"}' +
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
 	',{ "title":"NieR Automata" , "type":"steam", "site":"https://www.platinumgames.com/games/nier-automata?age-verified=98bb03574a"}' +
