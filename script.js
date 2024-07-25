@@ -91,6 +91,11 @@ let data = '{ "games" : [' +
 	',{ "title":"Berzerk Ball" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556904"}' +
 	',{ "title":"Champions of Chaos" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/556975"}' +
 	',{ "title":"Insidia" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557083"}' +
+	',{ "title":"The Visitor - Massacre" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557343"}' +
+	',{ "title":"Rocket Toilet" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557586"}' +
+	',{ "title":"Paranormal Shark Activity" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557660"}' +
+	',{ "title":"Balls in Space" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557794"}' +
+	
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
 	',{ "title":"NieR Automata" , "type":"steam", "site":"https://www.platinumgames.com/games/nier-automata?age-verified=98bb03574a"}' +
