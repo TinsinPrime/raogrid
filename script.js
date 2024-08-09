@@ -95,6 +95,10 @@ let data = '{ "games" : [' +
 	',{ "title":"Rocket Toilet" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557586"}' +
 	',{ "title":"Paranormal Shark Activity" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557660"}' +
 	',{ "title":"Balls in Space" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557794"}' +
+	',{ "title":"20 Seconds to Die" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557900"}' +
+	',{ "title":"Bearbound" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/557910"}' +
+	',{ "title":"Bat Country" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/558055"}' +
+	',{ "title":"Crystal Runner" , "type":"indie", "site":"https://www.newgrounds.com/portal/view/558168"}' +
 	
 	',{ "title":"An SMWC Production" , "type":"smw", "site":"https://www.smwcentral.net/?p=section&a=details&id=5420"}' +
 	',{ "title":"The Legend of Zelda" , "type":"emu", "site":"https://www.igdb.com/games/the-legend-of-zelda"}' +
